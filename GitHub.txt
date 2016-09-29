@@ -1,0 +1,59 @@
+Sean Obach 
+9/27/16
+CSC252
+
+1. Code version control is helpful because other people that are working with you could see the changes that are being made to the code. They could see what changed and stay up to date with each other's changes when adding improvements to the code. Each change is a version update, developing the code piece by piece until the final product is ready. It also keeps track of each version history just in case something goes wrong. If something does go wrong, it will be easier for the project manager to find any bugs and possibly revert the code back to a previous working version.
+
+2. The fork button allows you to freely experiment with changes without affecting the original project. It's like a separate branch that could be easily pulled in to the original branch. You could fork if you want to propose a change to the code. If the project manager likes your code, they can request a pull into the original repository. 
+
+The watch button allows you to recieve any notifications for any pull requests and issues that are created.
+
+The star button allows you to keep track of any repositories that you might find interesting. It's like bookmarking a repository as well as showing appreciation to the person making the repository.
+
+3. The purpose of the hello-world repository is to talk about one self in a read me file. 
+
+4. There is one changed file with 2 additions and no deletions. 
+
+5. Additions are colored green while Deletions are colored red.
+
+6. The purpose of issues is to keep track of tasks, enhancements, and bugs for your projects. It's like a chat room that people can discuss about the program.
+
+The purpose of pull requests is to tell others about the changes you've pushed to a repository on GitHub. Once it is open, you can discuss and review the potential changes with collaborators and add follow up commits before the changes are merged into the repository.
+
+The difference is issues often talk about what's wrong with the program and how they can fix it while the pull request is showing what changes you want to make to to the program.
+
+7. The pulse shows information on the repository. It shows how many merged pull requests occured, how many proposed pull requests there are, how many issues are active and closed, as well as how many commits and changes are there in the branches.
+
+8. https://github.com/obachs971/Github-Lab-CSC252/tree/master
+
+9. On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	(use "git add <file>..." to update what will be committed)
+	(use "git checkout -- <file>..." to discard changes in working directory)
+
+		modified: Hello.java (in red color)
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+10. On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+	(use git reset HEAD <file>..." to unstage)
+		modified: Hello.java (in green color)
+
+11. On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+	(use "git push" to publish your local commits)
+nothing to commit, working directory clean
+
+12. On brach master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working directory clean
+
+
+
+
+
+ 
+
